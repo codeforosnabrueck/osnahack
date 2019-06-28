@@ -40,6 +40,27 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 
 ### PeerOS
 
+**Teammitglieder:**
+
+* [Daniel Demmer](https://github.com/IotGod)
+* [Mareike Ehrnst](https://github.com/Mareiky)
+* [Daniyal Bari Bhatti](https://github.com/daniyal-bari)
+* [Drishti Maharjan](https://github.com/ohwhatafool)
+* Jan Frederic
+* Fynn Hendrik
+
+
+**Kurzbeschreibung:**
+
+The main goal of the project is to lay a strong foundation for making Osnabrück a smart city,  maintaining security, control, transparency, and added value of the user data. We want to provide a platform (via IOTA) for users giving them full control over their data, while making transactions for different purposes.
+
+
+**Link GitHub Repo:**
+
+https://github.com/IotGod/LorawanHack
+
+
+
 
 ### Smart Waste
 
