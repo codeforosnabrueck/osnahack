@@ -20,7 +20,19 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 ### ANISHARE powerd by MOOS-kit
 
 
-### cisternOS
+### cisternOS - Water different
+**Teammitglieder:**
+
+* Alexander Mrohs (Entrepreneur)
+* Boris Bremmenkamp (Bauingenieur)
+* Felix Berndsen (Webentwickler)
+* Jonas Dambacher (Mentor)
+* Nils Kliesing (Softwareingenieur
+
+
+**Kurzbeschreibung:**
+
+„Intelligente Brauchwasserzisternen können zum Überflutungsschutz beitragen“, dieser Ansicht sind die vier Entwickler um das Projektteam cisternOS. Die unterirdischen Wasserspeicher, die zur Speicherung von Regenwasser für eine spätere Nutzung als Brauchwasser sowie zur Gartenbewässerung verwendet werden, lassen sich mit Hilfe von Mess- und Steuerungstechnik wie LoRaWAN smart steuern.
 
 
 ### OpenAirOsna
