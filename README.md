@@ -50,7 +50,7 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 * Boris Bremmenkamp (Bauingenieur)
 * Felix Berndsen (Webentwickler)
 * Jonas Dambacher (Mentor)
-* Nils Kliesing (Softwareingenieur
+* Nils Kliesing (Softwareingenieur)
 
 
 **Platzierung:**
@@ -108,7 +108,19 @@ n/a
 
 **Kurzbeschreibung:**
 
+"Smart Waste" allows the municipal utilities of Osnabrück to measure the current load of their public
+trash cans and aggregate the data in a dashboard, so the garbage collection can optimize their route
+and monitor all trash can states in real time.
+
 **Teammitglieder:**
+
+- Leon Braun
+- Torben Pretzel
+- Marvin Offers
+- Udo Meckfessel
+- Hans Knöchel
+- André Klaßen (Mentor)
+- Michael Hermes (Mentor)
 
 **Platzierung:**
 
@@ -117,6 +129,7 @@ n/a
 
 **Link GitHub Repo:**
 
+Private
 
 ---
 
