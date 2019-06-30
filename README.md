@@ -13,7 +13,9 @@ Vorbild dafür ist der [Münsterhack](https://github.com/codeformuenster/muenste
 
 
 ## Die Projekte
+
 Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden sie am Freitag, 28.06.2019 um 18:30 Uhr in der Vitischanze Osnabrück. Die Reihenfolge dafür wurde ausgelost und ist folgende:
+
 1. PeerOS
 2. urbanBiking
 3. OpenAirOsna
@@ -21,6 +23,7 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 5. watchdock
 6. Smart Waste
 7. cisternOS
+
 
 ---
 
@@ -49,8 +52,11 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 * Alexander Mrohs (Entrepreneur)
 * Boris Bremmenkamp (Bauingenieur)
 * Felix Berndsen (Webentwickler)
-* Jonas Dambacher (Mentor)
 * Nils Kliesing (Softwareingenieur
+
+
+* Jonas Dambacher (Mentor)
+
 
 **Platzierung:** Publikumspreis
 
@@ -79,11 +85,11 @@ The main goal of the project is to lay a strong foundation for making Osnabrück
 **Teammitglieder:**
 
 * [Daniel Demmer](https://github.com/IotGod)
-* [Mareike Ehrnst](https://github.com/Mareiky)
 * [Daniyal Bari Bhatti](https://github.com/daniyal-bari)
 * [Drishti Maharjan](https://github.com/ohwhatafool)
-* Jan Frederic
 * Fynn Hendrik
+* Jan Frederic
+* [Mareike Ehrnst](https://github.com/Mareiky)
 
 
 **Link GitHub Repo:** https://github.com/IotGod/LorawanHack
@@ -98,15 +104,18 @@ The main goal of the project is to lay a strong foundation for making Osnabrück
 
 Das Ziel dieses Projektes war es die Mülleimer der Stadt Smart zu machen und damit unnötige Wege zu sparen. Um dieses Ziel zu erreichen wurde ein kostengünstiger Sensor entwickelt, der in der Lage ist den Füllstand der Tonne zu erfassen und diesen per LoRaWan ins Netz einzuspeisen. Auf dieser Datenbasis kann nun das Dashboard auswerten und anzeigen, wo sich volle Mülleimer befinden. Mit Hilfe intellegenter Algorithmen lässt sich nun das "Travelling-Salesman" Problem lösen und die beste Route ermitteln. Viele weitere Einsatzmöglichkeiten sind denkbar, dies macht das Projekt extrem Skalierbar und wirtschaftlich gut nutzbar.
 
+
 **Teammitglieder:**
 
+* [Hans Knoechel](https://github.com/hansemannn)
+* [Leon Braun](https://github.com/OBrown92)
 * [Mark McFessel](https://github.com/McFiesl)
 * Marvin Offers
-* [Hans Knoechel](https://github.com/hansemannn)
 * [Torben Pretzel](https://github.com/tpretzel)
-* [Leon Braun](https://github.com/OBrown92)
-* Michael Hermes (Mentor)
+
+
 * André Klaßen (Mentor)
+* Michael Hermes (Mentor)
 
 **Platzierung:** 1. Platz
 
@@ -117,9 +126,24 @@ Das Ziel dieses Projektes war es die Mülleimer der Stadt Smart zu machen und da
 
 ### urbanBiking
 
-**Kurzbeschreibung:** Wir wollen die sichersten Routen für Fahrradfahrer*innen ermitteln und visualisieren. Dazu haben wir zunächst Daten aus OpenStreetMap mit Daten der Stadt Osnabrück kombiniert, dann eine Metrik entworfen, um die einzelnen Werte zu normalisieren und zu gewichten und im Anschluss mit Algorithmen aus der Geoinformatik alles in einer Ampel-Farbskala auf einer Karte dargestellt. Die Software ist funktionsfähig, modular erweiterbar und frei verfügbar.
+**Kurzbeschreibung:**
+ 
+Wir wollen die sichersten Routen für Fahrradfahrer*innen ermitteln und visualisieren. Dazu haben wir zunächst Daten aus OpenStreetMap mit Daten der Stadt Osnabrück kombiniert, dann eine Metrik entworfen, um die einzelnen Werte zu normalisieren und zu gewichten und im Anschluss mit Algorithmen aus der Geoinformatik alles in einer Ampel-Farbskala auf einer Karte dargestellt. Die Software ist funktionsfähig, modular erweiterbar und frei verfügbar.
 
-**Teammitglieder:** [Lennard](https://github.com/lennardVK), Marius, [Lara](https://github.com/LaraThiele), Dimitri, [Eric](https://github.com/joliyea), [Tim](https://github.com/TimKlausmeyer), [Magnus](https://github.com/m-schieder) und [Julia](https://github.com/joliyea) mit [Mentor Carsten](https://github.com/c-s-n)
+**Teammitglieder:**
+
+* Dimitri
+* [Eric](https://github.com/joliyea)
+* [Julia](https://github.com/joliyea)
+* [Lara](https://github.com/LaraThiele)
+* [Lennard](https://github.com/lennardVK)
+* [Magnus](https://github.com/m-schieder)
+* Marius
+* [Tim](https://github.com/TimKlausmeyer)
+
+
+* [Carsten](https://github.com/c-s-n) (Mentor)
+
 
 **Platzierung:** keine
 
