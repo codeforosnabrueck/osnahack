@@ -17,20 +17,20 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 1. PeerOS
 2. urbanBiking
 3. OpenAirOsna
-4. ANISHARE powered by MOOS-kit
+4. ANISHARE powered by MOSSkit
 5. watchdock
 6. Smart Waste
 7. cisternOS
 
 ---
 
-### ANISHARE powerd by MOOS-kit
+### ANISHARE powerd by MOSSkit
 
 **Kurzbeschreibung:**
 
 **Teammitglieder:**
 
-**Platzierung:**
+**Platzierung:** keine
 
 **Link GitHub Repo:**
 
@@ -52,10 +52,7 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 * Jonas Dambacher (Mentor)
 * Nils Kliesing (Softwareingenieur
 
-
-**Platzierung:**
-
-Publikumspreis
+**Platzierung:** Publikumspreis
 
 ---
 
@@ -65,10 +62,7 @@ Publikumspreis
 
 **Teammitglieder:**
 
-**Platzierung:**
-
-3. Platz
-
+**Platzierung:** 3. Platz
 
 **Link GitHub Repo:**
 
@@ -92,15 +86,9 @@ The main goal of the project is to lay a strong foundation for making Osnabrück
 * Fynn Hendrik
 
 
-**Link GitHub Repo:**
+**Link GitHub Repo:** https://github.com/IotGod/LorawanHack
 
-https://github.com/IotGod/LorawanHack
-
-
-**Platzierung:**
-
-n/a
-
+**Platzierung:** keine
 
 ---
 
@@ -120,21 +108,22 @@ Das Ziel dieses Projektes war es die Mülleimer der Stadt Smart zu machen und da
 * Michael Hermes (Mentor)
 * André Klaßen (Mentor)
 
-**Platzierung:**
+**Platzierung:** 1. Platz
 
-1. Platz
+**Link GitHub Repo:**
+
 
 ---
 
 ### urbanBiking
 
-**Kurzbeschreibung:**
+**Kurzbeschreibung:** Wir wollen die sichersten Routen für Fahrradfahrer*innen ermitteln und visualisieren. Dazu haben wir zunächst Daten aus OpenStreetMap mit Daten der Stadt Osnabrück kombiniert, dann eine Metrik entworfen, um die einzelnen Werte zu normalisieren und zu gewichten und im Anschluss mit Algorithmen aus der Geoinformatik alles in einer Ampel-Farbskala auf einer Karte dargestellt. Die Software ist funktionsfähig, modular erweiterbar und frei verfügbar.
 
-**Teammitglieder:**
+**Teammitglieder:** [Lennard](https://github.com/lennardVK), Marius, [Lara](https://github.com/LaraThiele), Dimitri, [Eric](https://github.com/joliyea), [Tim](https://github.com/TimKlausmeyer), [Magnus](https://github.com/m-schieder) und [Julia](https://github.com/joliyea) mit [Mentor Carsten](https://github.com/c-s-n)
 
-**Platzierung:**
+**Platzierung:** keine
 
-**Link GitHub Repo:**
+**Link GitHub Repo:** https://github.com/elanfer/OSNA-HACK_bikeproject
 
 
 ---
@@ -145,9 +134,6 @@ Das Ziel dieses Projektes war es die Mülleimer der Stadt Smart zu machen und da
 
 **Teammitglieder:**
 
-**Platzierung:**
-
-2. Platz
-
+**Platzierung:** 2. Platz
 
 **Link GitHub Repo:**
