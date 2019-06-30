@@ -96,7 +96,17 @@ The main goal of the project is to lay a strong foundation for making Osnabrück
 
 **Kurzbeschreibung:**
 
+Das Ziel dieses Projektes war es die Mülleimer der Stadt Smart zu machen und damit unnötige Wege zu sparen. Um dieses Ziel zu erreichen wurde ein kostengünstiger Sensor entwickelt, der in der Lage ist den Füllstand der Tonne zu erfassen und diesen per LoRaWan ins Netz einzuspeisen. Auf dieser Datenbasis kann nun das Dashboard auswerten und anzeigen, wo sich volle Mülleimer befinden. Mit Hilfe intellegenter Algorithmen lässt sich nun das "Travelling-Salesman" Problem lösen und die beste Route ermitteln. Viele weitere Einsatzmöglichkeiten sind denkbar, dies macht das Projekt extrem Skalierbar und wirtschaftlich gut nutzbar.
+
 **Teammitglieder:**
+
+* [Mark McFessel](https://github.com/McFiesl)
+* Marvin Offers
+* [Hans Knoechel](https://github.com/hansemannn)
+* [Torben Pretzel](https://github.com/tpretzel)
+* [Leon Braun](https://github.com/OBrown92)
+* Michael Hermes (Mentor)
+* André Klaßen (Mentor)
 
 **Platzierung:** 1. Platz
 
