@@ -114,7 +114,7 @@ Das Ziel dieses Projektes war es die Mülleimer der Stadt Smart zu machen und da
 * [Torben Pretzel](https://github.com/tpretzel)
 
 
-* André Klaßen (Mentor)
+* [André Klaßen](https://github.com/aklassen) (Mentor)
 * Michael Hermes (Mentor)
 
 **Platzierung:** 1. Platz
