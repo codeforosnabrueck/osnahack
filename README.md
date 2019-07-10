@@ -156,7 +156,17 @@ Wir wollen die sichersten Routen für Fahrradfahrer*innen ermitteln und visualis
 
 **Kurzbeschreibung:**
 
+Mit unserer Hardware basierten Web App „watchdock“ bieten wir Städten, Stadtwerken und Verkehrszentralen den Zugang zu relevanten Daten über die Stadt. Unsere Lösung vereinfacht die aktuelle Datenerhebung. Zum einen wird bislang der Feinstaubgehalt in der Stadt lediglich durch zwei Sensoren gemessen. Außerdem werden für das Melden von Straßenschäden und defekten Straßenlaternen Bürger durch das nutzen der Meldefunktion der Osnabrück-App instrumentalisiert, die Messwerte sind jedoch aufgrund von mangelnder Zuverlässigkeit und Vergleichbarkeit nur begrenzt belastbar. Zur Verbesserung des Verkehrsflusses und zur Minderung von Gefahrensituationen führen derzeit Mitarbeiter der Stadt Kontrollfahrten durch.
+Durch unser Device, welches mit einem Lichtsensor, zur Messung der Funktion der Straßenlaternen, einem Gyroskop zur Untersuchung des Fahrverhaltens und der Straßenunebenheiten und einem Luftsensor zur flächendeckenden Feinstaubmessung, ausgestattet ist, können diese Daten zeitgleich erhoben werden. Das Device wird an Bussen befestigt und in einer webbasierten App durch eine Karte dargestellt. Nutzer bekommen direkte Hinweise zu möglichen Defekten.
+
 **Teammitglieder:**
+* Marlene Eimterbäumer
+* Erik Eimterbäumer
+* Lars Malewski
+* Jan Kalthöfer
+* Kai Rauer
+
+* René von der Haar (Mentor)
 
 **Platzierung:** 2. Platz
 
