@@ -44,21 +44,20 @@ Hier sind alle Projekte in alphabetischer Reihenfolge gelistet, gepitcht werden 
 
 **Kurzbeschreibung:**
 
-„Intelligente Brauchwasserzisternen können zum Überflutungsschutz beitragen“, dieser Ansicht sind die vier Entwickler um das Projektteam cisternOS. Die unterirdischen Wasserspeicher, die zur Speicherung von Regenwasser für eine spätere Nutzung als Brauchwasser sowie zur Gartenbewässerung verwendet werden, lassen sich mit Hilfe von Mess- und Steuerungstechnik wie LoRaWAN smart steuern.
-
+Intelligente Brauchwasserzisternen können zum Überflutungsschutz beitragen und lassen sich mit Hilfe von Mess- und Steuerungstechnik wie LoRaWAN smart steuern. Die Zisternen entleeren sich vor einem Starkregenereignis voll automatisiert und können so die großen Regenmengen aufnehmen, die sonst auf den Straßen und in den Kellern für Schäden sorgen. Die Zisternen greifen dabei auf Wetterprognosen zurück und können so im Vorfeld Starkregenereignisse erkennen und auf die zu erwartende Niederschlagsmenge angepasste Speichervolumen freigeben. Über Dashboards können Hauseigentümer und Netzbetreiber Angaben zur Auslastung und dem Funktionszustand der Pumpen einsehen. Eine Starkregenprognose rundet das Gesamtbild ab.
 
 **Teammitglieder:**
 
 * Alexander Mrohs (Entrepreneur)
-* Boris Bremmenkamp (Bauingenieur)
-* Felix Berndsen (Webentwickler)
-* Nils Kliesing (Softwareingenieur
-
-
+* [Boris Bremmenkamp](https://www.xing.com/profile/Boris_Bremmenkamp/cv) (Bauingenieur)
+* [Felix Berndsen](https://fberndsen.de/) (Webentwickler)
+* [Nils Kliesing](https://github.com/nilskliesing) (Softwareingenieur)
 * Jonas Dambacher (Mentor)
 
-
 **Platzierung:** Publikumspreis
+
+**Link GitHub-Repo**: https://github.com/nilskliesing/cisternOS
+
 
 ---
 
